@@ -152,6 +152,6 @@ See [traxlate.com/pricing](https://traxlate.com/pricing) for current plans.
 
 <div align="center">
 <br/>
-<sub>Traxlate is made by <b>Arad Software</b>. This repository is the project's public page; the application itself is proprietary.<br/>
-© 2026 Arad Software. All rights reserved.</sub>
+<sub>Traxlate is made by <b>Arad Soft</b>. This repository is the project's public page; the application itself is proprietary.<br/>
+© 2026 Arad Soft. All rights reserved.</sub>
 </div>

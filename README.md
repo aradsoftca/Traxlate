@@ -6,7 +6,7 @@
 
 ### Private translation that runs on your own device.
 
-**Traxlate translates text, documents, PDFs, pictures and videos into 66 languages — on your
+**Traxlate translates text, documents, PDFs, pictures and subtitles into 66 languages — on your
 computer or phone, not on someone else's server.** Nothing you translate is uploaded. After a
 one-time download it works offline, and every translation is checked before you see it.
 
@@ -56,10 +56,9 @@ goes for PowerPoint, Excel, EPUB, subtitles and more — not a wall of pasted te
 | **PDFs** | Page by page, picking up where you left off. Scanned pages are read too. |
 | **Pictures** | Photograph a sign, a menu or a page — read and translated on the device. |
 | **Subtitles** | Drop in a video and get timed captions in your language. |
-| **Dubbing** | A new voice track, timed to the original. The video never leaves your device. |
 | **Microsoft Word** | A Traxlate tab in Word: translate a selection or the whole document, in place. |
 | **Your words** | A glossary of terms that must be translated your way, and a memory of your corrections. |
-| **Human translators** | When it has to be certified, hand it to a professional — quoted before you commit. |
+| **Review desk** | Check a long translation side by side, sentence by sentence, before it goes out. |
 
 ---
 

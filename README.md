@@ -45,6 +45,12 @@ a sentence, the rewrite scores higher **81% of the time** ([benchmarks](#measure
 A Word document returns as a Word document, with its headings, tables and formatting. The same
 goes for PowerPoint, Excel, EPUB, subtitles and more — not a wall of pasted text.
 
+### 📚 A whole book, offline
+*The Great Gatsby* — 52,819 words, 1,618 paragraphs — translated from English to Spanish in
+**33 minutes** on a desktop with an NVIDIA RTX 3070, with no internet connection. Every chapter,
+heading, italic and link came back in place, nothing was left untranslated, and the paragraphs
+worth a second look are listed for you, each with its number and text.
+
 ---
 
 ## What it translates
@@ -110,6 +116,7 @@ Full method and every number: [BENCHMARKS.md](BENCHMARKS.md).
 | --- | --- |
 | Desktop with an NVIDIA RTX 3070 | **0.36 s** per sentence (median of 195 sentences) |
 | Samsung Galaxy Z Fold5 (phone) | **2.0 s** for two sentences, fully on the phone |
+| Desktop with an NVIDIA RTX 3070 | **33 min** for a 52,819-word novel (EPUB, English → Spanish) |
 
 ---
 
